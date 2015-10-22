@@ -1,0 +1,7 @@
+# IPython log file
+
+get_ipython().magic('logstart')
+get_ipython().magic('quit')
+get_ipython().magic('logstart vix_scratchpad.py')
+$logoff
+get_ipython().magic('logoff')
